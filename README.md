@@ -1,6 +1,6 @@
 ## VR Experiences
-My course journey with Udemy.<br>
-Creating VR Experiences with React 360, Section 1-2
+My course journey with bhanuprakash.<br>
+Creating VR Experiences with React 360, Self-Study In CGVR.
 
 ### Install and run
 ```

@@ -11,10 +11,10 @@ place safely without any distant travelling or can be used for planning visits i
 
 ## Screenshots
 ![Home Page](screenshots/0.png)
-![VR Screenshot 1](screenshots/0.png)
-![VR Screenshot 2](screenshots/1.png)
-![VR Screenshot 3](screenshots/2.png)
-![VR Screenshot 4](screenshots/3.png)
+![VR Screenshot 1](screenshots/1.png)
+![VR Screenshot 2](screenshots/2.png)
+![VR Screenshot 3](screenshots/3.png)
+![VR Screenshot 4](screenshots/4.png)
 
 ## Dependencies
 react

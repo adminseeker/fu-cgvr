@@ -17,12 +17,12 @@ place safely without any distant travelling or can be used for planning visits i
 ![VR Screenshot 4](screenshots/4.png)
 
 ## Dependencies
-react
-react-360
-react-360-web
-react-native
-three
-webvr-polyfill
+* react
+* react-360
+* react-360-web
+* react-native
+* three
+* webvr-polyfill
 
 ### Install and Run
 ```
